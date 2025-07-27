@@ -7,7 +7,7 @@
 
 ##### Top Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiai03&layout=compact&hide_border=true)](https://github.com/yuiai03) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiai03&layout=compact&hide_border=true)
 
 ##
 
